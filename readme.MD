@@ -4,4 +4,4 @@
 
 Ejemplos de DDS
 
-Autor: Rinman Sián
+Autor: Rainman Sián
